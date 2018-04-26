@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yish.vip/post/example/</loc>
+    <lastmod>2018-04-26T21:46:59+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yish.vip/post/mos/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
   </url>
@@ -69,7 +74,7 @@
   
   <url>
     <loc>http://yish.vip/</loc>
-    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,13 +92,25 @@
   
   <url>
     <loc>http://yish.vip/post/</loc>
-    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://yish.vip/categories/programming/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/rust/</loc>
+    <lastmod>2018-04-26T21:46:59+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/categories/rust/</loc>
+    <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   

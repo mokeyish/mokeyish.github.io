@@ -6,10 +6,19 @@
     <description>Recent content on MOKEYISH&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Jan 2018 18:59:43 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 21:46:59 +0800</lastBuildDate>
     
 	<atom:link href="http://yish.vip/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Example</title>
+      <link>http://yish.vip/post/example/</link>
+      <pubDate>Thu, 26 Apr 2018 21:46:59 +0800</pubDate>
+      
+      <guid>http://yish.vip/post/example/</guid>
+      <description>不就是几分钟的事情吗？我可以多写几行的。</description>
+    </item>
     
     <item>
       <title>Mongoose OS on ESPer</title>
@@ -56,7 +65,7 @@ It all began while I was returning from an outing on 5 December, 2017 and was se
       
       <guid>http://yish.vip/about/</guid>
       <description>So, Who Am I? 
-I’m just another teenager who likes writing, programming and making stuff. Even setting the title as Who Am I for this article is reminding me of whoami in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
+I’m just another person who likes writing, programming and making stuff. Even setting the title as Who Am I for this article is reminding me of whoami in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.
 Recently I&amp;rsquo;ve also started taking interest in web designing and hosting the fruitful results of which these site and blogs are!</description>
     </item>
     
