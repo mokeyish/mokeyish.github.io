@@ -3,17 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yish.vip/post/mos/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/post/netjsonconfig/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/post/gci/</loc>
+    <lastmod>2018-01-13T10:29:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/404/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/categories/blogging/</loc>
+    <lastmod>2018-01-13T10:29:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://yish.vip/categories/</loc>
+    <lastmod>2018-01-13T10:29:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/django/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/categories/electronics/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/esp32/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/google-code-in/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/iot/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://yish.vip/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/mongoose-os/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/tags/openwisp/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/post/</loc>
+    <lastmod>2018-01-28T18:59:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yish.vip/categories/programming/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://yish.vip/tags/</loc>
+    <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   

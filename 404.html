@@ -1,57 +1,371 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<html lang="zh-CN">
+
 <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="generator" content="Hugo 0.40.1" />
-
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>404 Page not found &middot; My New Hugo Site</title>
-
-  
-  <link type="text/css" rel="stylesheet" href="http://yish.vip/css/print.css" media="print">
-  <link type="text/css" rel="stylesheet" href="http://yish.vip/css/poole.css">
-  <link type="text/css" rel="stylesheet" href="http://yish.vip/css/syntax.css">
-  <link type="text/css" rel="stylesheet" href="http://yish.vip/css/hyde.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+<title>
+Page Not Found
+</title>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 
-  
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="/favicon.png">
+	
+	<meta name="author" content="MOKEYISH" />
+	<meta name="description" content="Just a random blog for random stuff, mostly tech-related." />
 
-  
-  <link href="" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
 
-  
+
+<meta name="generator" content="Hugo 0.40.1" />
+
+
+<link rel="shortcut icon" href="http://yish.vip//img/defaultFav.ico">
+
+
+<link rel="canonical" href="" />
+<link rel="alternative" href="/index.xml" title="MOKEYISH&#39;s Blog" type="application/atom+xml" />
+
+	<link rel="stylesheet" type="text/css" href="/css/semantic.min.css">
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+
+
+
+<script>
+	var colorBG =  false 
+	var enabledPost = true
+	
+	var isMobile = ( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )
+	console.log("The client device is a "+(isMobile?"mobile":"PC")+".")
+</script>
+
 </head>
 
-  <body class=" ">
-  <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <a href="http://yish.vip/"><h1>My New Hugo Site</h1></a>
-      <p class="lead">
-      An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.
-      </p>
-    </div>
+<body>
+	<script>
+var prevBgIndex = 0;
+var bodyBgSwitchIndex = 0;	
 
-    <ul class="sidebar-nav">
-      <li><a href="http://yish.vip/">Home</a> </li>
-      
-    </ul>
+	
+		var bgImage = "url(" + "http://bit.ly/2gPLxZ4" + ")"
+	
 
-    <p>&copy; 2018. All rights reserved. </p>
-  </div>
+	console.log("Current background: " + bgImage.substring(bgImage.indexOf("bg"), bgImage.length));
+	document.body.style.setProperty('--blurEff', "0px");
+	document.body.style.setProperty('--bgImage', bgImage);
+
+
+	function getRandomInt(min, max) {
+	  min = Math.ceil(min)
+	  max = Math.floor(max)
+	  var random
+	  while (1) {
+	    random = Math.floor(Math.random() * (max - min)) + min
+	    if (random !== prevBgIndex) {
+	      prevBgIndex = random
+	      break
+	    }
+	  }
+	  return random
+	}
+
+	function connect(arr) {
+	  var str = ''
+	  for (var i = 0; i < arr.length; i++) {
+	    if (i !== arr.length - 1) {
+	      str += arr[i] + ', '
+	    } else {
+	      str += arr[i]
+	    }
+	  }
+	  return str
+	}
+</script>
+	<div class="bg"></div>
+	<div class="blur-overlay"></div>
+	<div id="sidebar" class="ui sidebar inverted vertical menu">
+	<section id="author" class="ui top attached center aligned inverted segment">
+		<div class="ui small circular image">
+	
+	<img src="/images/avatar.jpg">
+	
+</div>
+<h3 class="ui header">MOKEYISH<div class="sub header">A keen maker, programmer and an Instructables author.</div>
+</h3>
+
+	</section>
+	
+	
+	<section class="ui attached center aligned inverted segment sidebar-dream-tags">		
+		
+<a class="ui label" href="/tags/django" title="django">django</a>
+
+<a class="ui label" href="/tags/esp32" title="esp32">esp32</a>
+
+<a class="ui label" href="/tags/google-code-in" title="google-code-in">google-code-in</a>
+
+<a class="ui label" href="/tags/iot" title="iot">iot</a>
+
+<a class="ui label" href="/tags/mongoose-os" title="mongoose-os">mongoose-os</a>
+
+<a class="ui label" href="/tags/openwisp" title="openwisp">openwisp</a>
+
+
+	</section>	
+	
+	
+	
+	
+	<section class="ui attached inverted segment sidebar-dream-categories both flexbox">
+		<div class="ui inverted accordion">
+				
+<div class="title">
+	<i class="dropdown icon"></i>
+	<a class="link" href="/categories/blogging">blogging</a>     	
 </div>
 
-    <div class="content container">
-    <h1>404: Page not found</h1>
-<p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="http://yish.vip/">Head back home</a> to try finding it again.</p>
-    </div>
+<div class="content">    		
+	<a class="item" href="http://yish.vip/post/gci/">
+		<div>
+			<i class="cocktail icon"></i>
+			<p>Google Code-in with OpenWISP</p>
+		</div>
+	</a>
+</div>
 
+	
+<div class="title">
+	<i class="dropdown icon"></i>
+	<a class="link" href="/categories/electronics">electronics</a>     	
+</div>
+
+<div class="content">    		
+	<a class="item" href="http://yish.vip/post/mos/">
+		<div>
+			<i class="cocktail icon"></i>
+			<p>Mongoose OS on ESPer</p>
+		</div>
+	</a>
+</div>
+
+	
+<div class="title">
+	<i class="dropdown icon"></i>
+	<a class="link" href="/categories/programming">programming</a>     	
+</div>
+
+<div class="content">    		
+	<a class="item" href="http://yish.vip/post/netjsonconfig/">
+		<div>
+			<i class="cocktail icon"></i>
+			<p>Testing &#34;django-netjsonconfig&#34;</p>
+		</div>
+	</a>
+</div>
+
+
+
+		</div>
+	</section>
+	
+	
+	<section id="footer" class="ui bottom attached center aligned inverted segment">
+		
+<p>© 2018 MOKEYISH&#39;s Blog</p>
     
-  </body>
+<p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with <a href="https://github.com/UtkarshVerma/hugo-dream-plus" target="_blank">Dream Plus</a> theme.</p>
+
+
+	</section>
+</div>
+
+	<div class="pusher">
+		<div class="flipper">
+			<div class="front">
+				
+<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title=""></i>
+	</div>
+	
+	
+	<div class="item">
+		<a href="/">
+			<i class="inverted big link home icon" title="Home"></i>
+		</a>
+	</div>
+	
+	
+	
+	<div class="item">
+		<a href="/post">
+			<i class="inverted big link archive icon" title=""></i>
+		</a>
+	</div>
+	
+	
+	
+	<div class="item">
+		<a href="/tags">
+			<i class="inverted big link tags icon" title=""></i>
+		</a>
+	</div>
+	
+	
+	
+	<div class="item">
+		<a href="/categories">
+			<i class="inverted big link cubes icon" title=""></i>
+		</a>
+  </div>
+	
+
+	
+	
+	<div class="item">
+		
+		<i class="disabled inverted big chevron circle left icon" title=""></i>
+  	
+  </div>
+	<div class="item">
+			
+		<i class="disabled inverted big chevron circle right icon" title=""></i>
+		
+	</div>
+	
+	
+	
+</nav>
+
+ 
+<div class="ui centered grid four-o-four">
+	<div class="fifteen wide mobile fifteen wide tablet fifteen wide computer column">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+				<article class="twemoji">
+					
+						<h1 id="error-404-page-not-found">Error 404: Page Not Found</h1>
+
+<hr />
+
+<h4 id="it-seems-that-the-page-that-you-re-trying-to-access-doesn-t-exist-worried">It seems that the page that you&rsquo;re trying to access doesn&rsquo;t exist. 😟</h4>
+
+<h4 id="if-you-re-sure-that-it-exists-chances-are-it-might-have-been-moved-to-a-new-link-you-may-search-for-it-on-the-home-page">If you&rsquo;re sure that it exists, chances are it might have been moved to a new link! You may search for it on the home page.</h4>
+
+					
+        			<p><center><a class="ui center aligned blue label" href="/"></a></center></p> 
+				</article>
+			</div>        
+		</section>
+	</div>
+</div>
+
+			</div>
+			<div class="back">
+				<nav class="ui top secondary menu bar">
+	<div class="item">
+		<i class="inverted big link bullseye icon dream-flip-toggle" title=""></i>
+	</div>
+	
+<div class="item">
+	<a href="https://github.com/mokeyish" target="_blank">
+		<i id="ico" class="inverted big link github icon" title="GitHub"></i>
+	</a>
+</div>
+
+
+
+<div class="item">
+	<a href="mailto:mokeyish@hotmail.com">
+		<i id="ico" class="inverted big link mail icon" title="Email"></i>
+	</a>
+</div>
+
+
+
+<div class="item">
+	<a href="https://twitter.com/mokeyish" target="_blank">
+		<i id="ico" class="inverted big link twitter icon" title="Twitter"></i>
+	</a>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="item">
+	<a href="https://www.stackoverflow.com/users/7824173/mokeyish" target="_blank">
+		<i id="ico" class="inverted big link stack overflow icon" title="stackoverflow"></i>
+	</a>
+</div>
+
+
+
+
+
+
+</nav>
+
+<div class="ui centered grid about">
+	<div class="sixteen wide mobile fifteen wide tablet fifteen wide computer column about">
+		<section class="ui stacked segments">
+			<div class="ui inverted segment">
+	<article class="twemoji">
+		<h1>So, Who Am I?</h1>
+
+<hr />
+
+<p><br>
+I’m just another teenager who likes <strong>writing</strong>, <strong>programming</strong> and <strong>making stuff</strong>. Even setting the title as <strong>Who Am I</strong>  for this article is reminding me of <code>whoami</code> in Linux. I feel the inner urge to contribute something to the Internet because I love writing and I believe posting something online enables users all around the globe to see your work and suggest improvements.</p>
+
+<p>Recently I&rsquo;ve also started taking interest in web designing and hosting the fruitful results of which these site and blogs are! I also make <strong>projects</strong> and share them online at <strong>Instructables</strong>, the link of which has been placed on the home page. Making stuff is just one of the things I love the most.</p>
+
+<p>That’s all that I can think of right now. Hopefully I’ll add something more to this later on. 😅</p>
+
+<p>Curious about me? Use the social links above to check out my profiles.</p>
+
+<p>You can also support me on <a href="https://patreon.com/UtkarshVerma" target="_blank">Patreon</a>. I&rsquo;d really appreciate it.</p>
+
+	</article>
+</div>
+
+		</section>
+	</div>
+</div>
+			</div>
+		</div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/site.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+
+
+	<script src="/js/twemoji.min.js"></script>
+
+
+
+
+
+
+	<script id="dsq-count-scr" src="//mokeyishBlog.disqus.com/count.js" async></script>
+
+	
+
+	
+<script>
+	(function () {
+	  console.log("Twemoji up and making stuff colourful!");
+	  for (var b = document.getElementsByClassName("twemoji"), a = 0; a < b.length; a++) {
+		twemoji.parse(b[a]);
+	  }
+	})();
+</script>
+
+
+	
+</body>
+
 </html>
