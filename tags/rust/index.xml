@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rust on MOKEYISH&#39;s Blog</title>
-    <link>http://yish.vip/tags/rust/</link>
+    <link>https://yish.vip/tags/rust/</link>
     <description>Recent content in Rust on MOKEYISH&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 26 Apr 2018 21:46:59 +0800</lastBuildDate>
     
-	<atom:link href="http://yish.vip/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yish.vip/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example</title>
-      <link>http://yish.vip/post/example/</link>
+      <link>https://yish.vip/post/example/</link>
       <pubDate>Thu, 26 Apr 2018 21:46:59 +0800</pubDate>
       
-      <guid>http://yish.vip/post/example/</guid>
+      <guid>https://yish.vip/post/example/</guid>
       <description>不就是几分钟的事情吗？我可以多写几行的。</description>
     </item>
     

@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yish.vip/post/example/</loc>
+    <loc>https://yish.vip/post/example/</loc>
     <lastmod>2018-04-26T21:46:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yish.vip/post/mos/</loc>
+    <loc>https://yish.vip/post/mos/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://yish.vip/post/netjsonconfig/</loc>
+    <loc>https://yish.vip/post/netjsonconfig/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://yish.vip/post/gci/</loc>
+    <loc>https://yish.vip/post/gci/</loc>
     <lastmod>2018-01-13T10:29:23+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://yish.vip/404/</loc>
+    <loc>https://yish.vip/404/</loc>
   </url>
   
   <url>
-    <loc>http://yish.vip/about/</loc>
+    <loc>https://yish.vip/about/</loc>
   </url>
   
   <url>
-    <loc>http://yish.vip/categories/blogging/</loc>
-    <lastmod>2018-01-13T10:29:23+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://yish.vip/categories/</loc>
+    <loc>https://yish.vip/categories/blogging/</loc>
     <lastmod>2018-01-13T10:29:23+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/django/</loc>
+    <loc>https://yish.vip/categories/</loc>
+    <lastmod>2018-01-13T10:29:23+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yish.vip/tags/django/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/categories/electronics/</loc>
+    <loc>https://yish.vip/categories/electronics/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/esp32/</loc>
+    <loc>https://yish.vip/tags/esp32/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/google-code-in/</loc>
+    <loc>https://yish.vip/tags/google-code-in/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/iot/</loc>
+    <loc>https://yish.vip/tags/iot/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/</loc>
+    <loc>https://yish.vip/</loc>
     <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/mongoose-os/</loc>
+    <loc>https://yish.vip/tags/mongoose-os/</loc>
     <lastmod>2018-01-28T18:59:43+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/openwisp/</loc>
+    <loc>https://yish.vip/tags/openwisp/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/post/</loc>
+    <loc>https://yish.vip/post/</loc>
     <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/categories/programming/</loc>
+    <loc>https://yish.vip/categories/programming/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/rust/</loc>
+    <loc>https://yish.vip/tags/rust/</loc>
     <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/categories/rust/</loc>
+    <loc>https://yish.vip/categories/rust/</loc>
     <lastmod>2018-04-26T21:46:59+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yish.vip/tags/</loc>
+    <loc>https://yish.vip/tags/</loc>
     <lastmod>2018-01-14T14:28:40+05:30</lastmod>
     <priority>0</priority>
   </url>
